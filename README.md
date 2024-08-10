@@ -1,8 +1,4 @@
-Hi 👋 My name is Hadi Shahbazi
-==============================
-
-Frontend Developer
-------------------
+# Hi 👋 My name is Hadi Shahbazi ( Frontend Developer )
 
 ## About Me
 

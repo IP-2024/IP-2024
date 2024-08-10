@@ -1,4 +1,4 @@
-# Hi 👋 My name is Hadi Shahbazi ( Frontend Developer )
+<h1>Hi 👋 My name is Hadi Shahbazi ( Frontend Developer )</h1>
 
 ## About Me
 

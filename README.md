@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/IP-2024?logo=github&style=for-the-b
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,git,jquery,tailwind,bootstrap,sass" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vue,git,jquery,tailwind,bootstrap,sass&perline=5" />
 
 ## Badges
 

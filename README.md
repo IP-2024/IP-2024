@@ -10,9 +10,6 @@ I am Hadi Shahbazi, born in 1384, a resident of East Azerbaijan (Maragheh), a st
 * 🚀  I'm currently working on [Chat Room](http://github.com/IP-2024/Chat-Room.git)
 * 🧠  I'm learning react.js & vue.js
 
-<a href="https://www.github.com/IP-2024" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/IP-2024?logo=github&style=for-the-badge&color=3382ed&labelColor=27272a" /></a>
-
 ## Skills
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,git,jquery,tailwind,bootstrap,sass" />
